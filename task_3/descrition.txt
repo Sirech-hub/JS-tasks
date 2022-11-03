@@ -1,0 +1,1 @@
+реализация своих функций: map, filter, find, some, every
